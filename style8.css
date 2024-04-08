@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image-user {
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+}
+.li-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.prev.isDisable {
+  display: none;
+}
+
+.More.isDisable{
+  display: none;
+}
